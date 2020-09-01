@@ -1,0 +1,12 @@
+{
+  "name": "typescript_api_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Udson Souza da Cruz",
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
